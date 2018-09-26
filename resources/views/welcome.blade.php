@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Proyecto de tópicos
                 </div>
 
                 <div class="links">
