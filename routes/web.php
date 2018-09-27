@@ -14,3 +14,21 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/nombre', function () {
+    return "Soy Jorge";
+});
+
+
+Route::get('/nombre/{apellido}', function ( $apellido) {
+    return "Soy Jorge $apellido";
+});
+
+Route::get('/somos', function () {
+    return view('somos');
+});
+
+
+Route::get('/quienessomos',  'PrimerControlador@PrimerAccion' );
+Route::get('/contacto',  'PrimerControlador@SegundaAccion' );
+
