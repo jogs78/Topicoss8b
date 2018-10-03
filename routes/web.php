@@ -29,6 +29,11 @@ Route::get('/somos', function () {
 });
 
 
-Route::get('/quienessomos',  'PrimerControlador@PrimerAccion' );
-Route::get('/contacto',  'PrimerControlador@SegundaAccion' );
-
+Route::get('quienessomos',   'PrimerControlador@PrimerAccion' );
+Route::get('contacto'    ,   'PrimerControlador@SegundaAccion' );
+Route::get('mensaje'     ,   'PrimerControlador@TercerAccion' );
+Route::get('parametro/{uno}','PrimerControlador@CuartaAccion' );
+Route::get('ejemplo5',       'PrimerControlador@QuintaAccion' );
+Route::get('ejemplo6',       'PrimerControlador@SextaAccion' );
+Route::get('formulario',     'PrimerControlador@Accion7' );
+Route::post('enviado',    'PrimerControlador@Accion8' );
