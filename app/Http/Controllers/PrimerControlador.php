@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
+use App\Http\Models\usuario;
 
 class PrimerControlador extends Controller
 {
@@ -47,4 +48,8 @@ class PrimerControlador extends Controller
 		return view('prueba.octava', compact('nombre','mensaje') );
 	}
 
+	public function Accion9(){
+		$todos = usuario::all();
+		return view('todos',compact('todos'));
+	}
 }

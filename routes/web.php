@@ -37,3 +37,17 @@ Route::get('ejemplo5',       'PrimerControlador@QuintaAccion' );
 Route::get('ejemplo6',       'PrimerControlador@SextaAccion' );
 Route::get('formulario',     'PrimerControlador@Accion7' );
 Route::post('enviado',    'PrimerControlador@Accion8' );
+
+
+Route::get('usuarios','PrimerControlador@Accion9');
+
+Route::get('carros','CarrosControlador@listar');
+
+Route::get('carros/agregar' , 'CarrosControlador@agregar');
+Route::post('carros/add' , 'CarrosControlador@add' );
+
+Route::get('carros/actualizar/{id}','CarrosControlador@actualizar');
+Route::post('carros/update/{id}','CarrosControlador@update');
+
+Route::get('carros/borrar/{id}','CarrosControlador@borrar');
+Route::post('carros/delete/{id}','CarrosControlador@delete');
