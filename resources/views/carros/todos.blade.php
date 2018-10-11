@@ -4,6 +4,7 @@
 		<thead>
 			<th>CRUD</th>
 			<th>MODELO</th>
+			<th>PROPIETARIO</th>
 		</thead>
 		<tbody>
 	@foreach($todos as $cadauno)
@@ -14,6 +15,7 @@
 					<a href="/carros/borrar/{{$cadauno->id}}">DELETE</a>
 				</td>
 				<td>{{$cadauno->modelo}}</td>
+				<td>{{ $cadauno->aquien->nombre}}</td>
 			</tr>
 	@endforeach
 		</tbody>
