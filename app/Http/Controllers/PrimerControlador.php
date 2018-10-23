@@ -52,4 +52,13 @@ class PrimerControlador extends Controller
 		$todos = usuario::all();
 		return view('todos',compact('todos'));
 	}
+
+
+	public function Accion10(){
+
+		return view('dinamica');
+	}
+
+
+
 }

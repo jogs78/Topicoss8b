@@ -16,6 +16,11 @@ Route::get('/', function () {
 
 Route::get('/nombre', function () {
     return "Soy Jorge";
+//    $a = array('Excelente' => 10 , 'Muy Bien' => 9, 'Bien' => 8, 'Suficiente +' => 7, 'Suficiente' => 6, 'In suficiente' => 5, 'No aceptable' => 4,  'No aceptable -' => 3 );
+//    $a = array('Si presenta' => 10 , 'No presenta' => 0 );
+//    $a = array('Convincente' => 10 , 'Medianamente' => 5, 'Discutible' => 0 );
+//    $a = array('Licenciatura' => 10 , 'Posgrado' => 0 );
+//		echo json_encode($a);  
 });
 
 
@@ -66,5 +71,5 @@ Route::post('usuarios/update/{id}','UsuariosControlador@update');
 Route::get('usuarios/borrar/{id}','UsuariosControlador@borrar');
 Route::post('usuarios/delete/{id}','UsuariosControlador@delete');
 
-
+Route::get('dinamica','PrimerControlador@Accion10' );
 
