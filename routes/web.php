@@ -64,6 +64,7 @@ Route::get('usuarios','UsuariosControlador@listar');
 
 Route::get('usuarios/agregar' , 'UsuariosControlador@agregar');
 Route::post('usuarios/add' , 'UsuariosControlador@add' );
+Route::post('usuarios/add2' , 'UsuariosControlador@add2' );
 
 Route::get('usuarios/actualizar/{id}','UsuariosControlador@actualizar');
 Route::post('usuarios/update/{id}','UsuariosControlador@update');

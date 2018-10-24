@@ -6,8 +6,15 @@
 /.idea
 /.vscode
 /.vagrant
+Extras/modelo.mwb
+Extras/modelo.mwb.bak
 Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
 .phpunit.result.cache
+.editorconfig
+.env.example
+Topicos.sublime-project
+Topicos.sublime-workspace
+.gitignore

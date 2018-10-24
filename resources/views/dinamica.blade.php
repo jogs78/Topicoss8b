@@ -74,6 +74,7 @@
       <div class="modal-body">
 <div class="container">
   <form>
+  	@csrf
     <div class="form-group row">
       <label for="inputEmail3" class="col-sm-2 col-form-label">NOMBRE</label>
       <div class="col-sm-10">

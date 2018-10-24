@@ -29,6 +29,18 @@ class UsuariosControlador extends Controller
 		return redirect('usuarios');
 
 	}
+	public function add2(Request $request){
+		$nuevo = new usuario;
+		$nuevo->fill( $request->all() );
+		$nuevo->save();
+		return $nuevo->toJson();
+	}
+/*
+		ob_start();
+  	var_dump( $request->all());
+  	$result = ob_get_clean();
+  	return $result;
+*/
 	public function actualizar($id){
 		$elemento = usuario::find($id);
 		return view('usuarios.actualizar',compact('elemento'));
