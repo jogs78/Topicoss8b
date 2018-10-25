@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"text",
+				"innerText"
+			],
+			[
+				"desc",
+				"descripcion"
+			],
+			[
+				"Exi",
+				"Existencias"
+			],
+			[
+				"Exsi",
+				"Existencia"
+			],
+			[
+				"Inventa",
+				"inventarios"
+			],
+			[
+				"sub",
+				"subquery"
+			],
+			[
+				"Existn",
+				"Existencia"
+			],
+			[
+				"e",
+				"existencias"
+			],
+			[
+				"modal",
+				"modal-body"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"Fecha",
+				"Fecha_inicio"
+			],
+			[
+				"Titul",
+				"titulo_proyecto"
+			],
+			[
+				"convoc",
+				"Convocatoria"
+			],
+			[
+				"tbl",
+				"tbl1"
+			],
+			[
+				"Compra",
+				"Compra"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 2704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UsuariosControlador.php",
+			"settings":
+			{
+				"buffer_size": 1514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/usuarios/todos.blade.php",
+			"settings":
+			{
+				"buffer_size": 2199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/error.blade.php",
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/funciones.js",
+			"settings":
+			{
+				"buffer_size": 614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/dinamica.blade.php",
+			"settings":
+			{
+				"buffer_size": 3367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/plantilla/origen.blade.php",
+			"settings":
+			{
+				"buffer_size": 1427,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"prety",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"INSTALL PACKAGE",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Desarrollo/home/public/tres/resources/views/prueba/septima.blade.php",
+		"/Desarrollo/home/public/tres/resources/views/usuarios/agregar.blade.php",
+		"/Desarrollo/home/public/tres/resources/views/carros/todos.blade.php",
+		"/Desarrollo/home/public/tres/app/Http/Models/usuario.php",
+		"/Desarrollo/home/public/tres/resources/views/usuarios/actualizar.blade.php",
+		"/Desarrollo/home/public/tres/resources/views/usuarios/borrar.blade.php",
+		"/Desarrollo/home/public/tres/app/Http/Controllers/PrimerControlador.php",
+		"/Desarrollo/home/public/tres/app/Http/Models/carro.php",
+		"/Desarrollo/home/public/tres/public/funciones.js",
+		"/Desarrollo/home/public/tres/resources/views/dinamica.blade.php",
+		"/Desarrollo/home/public/tres/.env",
+		"/Desarrollo/home/public/negocio/public/js/tienda_existencias_inventariar.js",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/existencias/inventariar.blade.php",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/InventariarController.php",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/ProductosController.php",
+		"/Desarrollo/home/public/negocio/app/Models/Productos.php",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/productos/listar.blade.php",
+		"/Desarrollo/home/public/negocio/public/js/tienda_productos.js",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/VentasController.php",
+		"/Desarrollo/home/public/negocio/public/js/tienda_corte.js",
+		"/Desarrollo/home/public/negocio/public/js/tmp/tienda_corte.js",
+		"/Desarrollo/home/public/negocio/app/Models/Cortes.php",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/ventas/corte.blade.php",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/proveedores/listar.blade.php",
+		"/Desarrollo/home/public/negocio/resources/views/layouts/app.blade.php",
+		"/Desarrollo/home/public/negocio/app/Models/Proveedores.php",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/CortesController.php",
+		"/Desarrollo/home/public/negocio/public/js/tienda_entidad.js",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/ventas/vender.blade.php",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/ComprasController.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Desarrollo/home/public/negocio/app/Models/Desgloces.php",
+		"/Desarrollo/home/public/negocio/public/js/tienda_ventas_vender.js",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/UsuariosController.php",
+		"/Desarrollo/home/public/negocio/app/Models/Usuarios.php",
+		"/Desarrollo/home/public/negocio/app/Models/Ventas.php",
+		"/Desarrollo/web/negocio/module/Tienda/view/tienda/encargado/vender.phtml",
+		"/Desarrollo/home/public/negocio/public/js/tienda_existencias_actualizar.js",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/existencias/actualizar.blade.php",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/SurtimientosController.php",
+		"/Desarrollo/home/public/negocio/extras/todo.txt",
+		"/Desarrollo/web/negocio/public/js/tienda_vender.js",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/ExistenciasController.php",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda/ProveedoresController.php",
+		"/Desarrollo/home/public/negocio/public/js/tienda_existencias_comprar.js",
+		"/Desarrollo/home/public/negocio/public/js/tienda_existencias_surtir.js",
+		"/Desarrollo/home/public/negocio/app/Models/Inventarios.php",
+		"/Desarrollo/home/public/negocio/app/Models/Existencias.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/Desarrollo/home/public/negocio/extras/Cambios en la bd.txt",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/usuarios/listar.blade.php",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/existencias/surtir.blade.php",
+		"/Desarrollo/home/public/negocio/app/Models/Compras.php",
+		"/Desarrollo/home/public/negocio/public/js/tienda_usuarios.js",
+		"/Desarrollo/home/public/negocio/resources/views/Tienda/Existencias/comprar.blade.php",
+		"/Desarrollo/web/negocio/module/Tienda/view/tienda/existencias/comprar.phtml",
+		"/Desarrollo/home/public/negocio/app/Models/Grupos.php",
+		"/Desarrollo/home/public/negocio/app/Models/Clasificaciones.php",
+		"/Desarrollo/home/public/negocio/public/js/tienda_cortes.js",
+		"/Desarrollo/home/public/negocio/public/js/tienda_proveedores.js",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Auth/LoginController.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Desarrollo/home/public/negocio/app/Http/Controllers/Auth/RegisterController.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php",
+		"/Desarrollo/home/public/negocio/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php",
+		"/Desarrollo/home/public/negocio/resources/views/layouts/app.blade copia.php",
+		"/Desarrollo/home/public/negocio/routes/web.php",
+		"/Desarrollo/home/public/negocio/extras/rutas.txt",
+		"/Desarrollo/home/public/negocio/resources/views/welcome.blade.php",
+		"/Desarrollo/web/negocio/module/Tienda/view/tienda/usuarios/listar.phtml",
+		"/Desarrollo/home/public/negocio/config/auth.php",
+		"/Desarrollo/home/public/negocio/.env",
+		"/Desarrollo/home/public/negocio/config/mail.php",
+		"/Desarrollo/web/negocio/module/Tienda/view/layout/layout.phtml",
+		"/Desarrollo/home/public/negocio/resources/lang/es/messages.php",
+		"/Desarrollo/home/public/negocio/resources/views/home.blade.php",
+		"/Desarrollo/home/public/negocio/app/User.php",
+		"/Desarrollo/home/public/negocio/config/app.php",
+		"/Desarrollo/home/public/negocio/resources/lang/en/pagination.php",
+		"/Desarrollo/web/negocio/module/Application/view/layout/layout.phtml",
+		"/Users/jogs78/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Desarrollo/web/negocio/module/Auth/view/auth/log/in.phtml",
+		"/Users/jogs78/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Desarrollo/web/negocio/module/Application/view/application/index/index.phtml",
+		"/Desarrollo/home/public/viernes/server.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/VinculacionController.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Coordinador/CrudEntregablesController.php",
+		"/Desarrollo/home/public/crud/resources/views/auth/register.blade.php",
+		"/Desarrollo/home/public/crud/resources/views/crudentregables/create.blade.php",
+		"/Desarrollo/home/public/crud/app/Models/Convocatoria.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/ProyectoController.php",
+		"/Desarrollo/home/public/crud/app/Models/Proyecto.php",
+		"/Desarrollo/home/public/crud/resources/views/restriccionesr/edit.blade.php",
+		"/Desarrollo/home/public/crud/resources/views/restriccionesr/index.blade.php",
+		"/Desarrollo/home/public/crud/resources/views/sistema/Coordinador.blade.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Coordinador/RestriccionesRegistroController.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/HomeController.php",
+		"/Desarrollo/home/public/crud/resources/views/integracion/listado.blade.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/ColaboradoresController.php",
+		"/Desarrollo/home/public/crud/resources/views/crudlongitudecaracteres/index.blade.php",
+		"/Desarrollo/home/public/crud/resources/views/crudlongitudecaracteres/edit.blade.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Coordinador/CrudDeLongitudecaracteres.php",
+		"/Desarrollo/home/public/crud/app/Models/CrudLongitudCaracteres.php",
+		"/Desarrollo/home/public/crud/resources/views/layouts/app.blade.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Coordinador/IntegracionController.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/ProtocoloController.php",
+		"/Desarrollo/home/public/crud/extras/todo.txt",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/DocumentosController.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/CronogramaController.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/EntregablesController.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/GastosController.php",
+		"/Desarrollo/home/public/crud/resources/views/aval/show.blade.php",
+		"/Desarrollo/home/public/crud/public/js/aval.js",
+		"/Desarrollo/home/public/crud/app/Models/Aval.php",
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/AvalController.php",
+		"/Desarrollo/home/public/crud/extras/notas_git.md",
+		"/Users/jogs78/Dropbox/personal/casas",
+		"/Desarrollo/home/public/crud/app/Models/Colaboradores.php",
+		"/Desarrollo/home/public/crud/resources/views/gastos/index.blade.php",
+		"/Desarrollo/home/public/crud/resources/views/sistema/Investigador.blade.php",
+		"/Desarrollo/home/public/crud/resources/views/documentos/ci01.blade.php",
+		"/Desarrollo/home/public/crud/app/Models/Protocolo.php",
+		"/Desarrollo/home/public/crud/routes/web.php",
+		"/Desarrollo/home/public/crud/.env",
+		"/Desarrollo/home/public/crud/app/Models/Gastos.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda",
+			"/Desarrollo/home/public/negocio/public/js",
+			"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda",
+			"/Desarrollo/home/public/negocio/public/js/",
+			"/Desarrollo/home/public/negocio/public",
+			"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda",
+			"/Desarrollo/home/public/negocio/",
+			"/Desarrollo/home/public/negocio/app/Http/Controllers/Tienda",
+			"/Desarrollo/home/public/negocio",
+			"/Desarrollo/home/public/negocio/vendor",
+			"/Desarrollo/home/public/negocio",
+			"/Desarrollo/web/negocio",
+			"/Desarrollo/home/public/crud/app",
+			"/Desarrollo/home/public/crud/app/Http/Controllers",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carro",
+			"entidad",
+			"foreach",
+			"default",
+			">With",
+			"log",
+			"LOG",
+			"DB::",
+			"Desgloces",
+			"comentario",
+			"id=",
+			"placeholder=\"#\"",
+			" placeholder=\"Username\"",
+			"AGREGAR",
+			"page_usuarios",
+			"Usuario",
+			"getQueryLog",
+			"btnvender",
+			"\"#stotal\"",
+			"stotal",
+			"viproducto",
+			"vcantidad",
+			"id_existencia",
+			"as",
+			"RAW",
+			"sql",
+			"DB::rollback();",
+			"DB::",
+			"$Existencia->save();",
+			"Producto",
+			"            ",
+			"Producto",
+			" . $error",
+			"cuantos_h",
+			"Producto",
+			"console.log",
+			"where",
+			"::where(",
+			"childre",
+			"$(\"#tbl2",
+			"most",
+			"            $Desgloce->id_venta = id_venta;\n",
+			"confirmado",
+			"$campos",
+			"->create(",
+			"modificar_venta",
+			"      ",
+			"vender",
+			".ajax(",
+			"ExistenciasController@ultimas5",
+			"ExistenciasController@productos",
+			"        ob_start();\n        var_dump($e->getCode());\n        $result = ob_get_clean();\n        return \"{ error: $cad }\";\n",
+			".append(row",
+			"tbl2>",
+			"toArray()",
+			"arr",
+			"->save(",
+			"//$(\"#",
+			"inventory",
+			"RAW",
+			"toJson",
+			"create(",
+			"createSub",
+			"join(",
+			"$(\"#tbl2>tbody>#",
+			"replace",
+			"s10",
+			"::where(",
+			"where(",
+			"identificacion",
+			"productos_existencias10",
+			"search",
+			"update(",
+			"Clasificaciones",
+			"s10",
+			"if(!mostrando_input)",
+			"li_existencias_almacen",
+			"ver",
+			"almacen",
+			"create",
+			"password",
+			"start",
+			"obstart",
+			"propert",
+			"prop",
+			"check",
+			"atri",
+			"toArray",
+			"supply(",
+			"productos",
+			"supply(",
+			"data[i]",
+			"supply(",
+			"foreac",
+			">\n",
+			"<?",
+			"id_grupo",
+			"async:",
+			"entidad",
+			"page_proveedores",
+			"view(",
+			"$Proveedor",
+			"Proveedores",
+			"Proveedor",
+			"entidad",
+			"formulario_acccion",
+			"'0000-00-00 00:00:00'",
+			"Proveedores",
+			"url:",
+			"add(",
+			"url",
+			"formulario_html",
+			"formulario_css",
+			"campos",
+			"prove",
+			"Provedor",
+			"$Proveedor",
+			"$Usuario",
+			"page_usuarios",
+			"phpDocumentor.phar",
+			"replace",
+			"+ id",
+			"id",
+			"function login",
+			"attem",
+			"attempt(array $credentials ",
+			"guard",
+			"credentials("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" name = \"momento\" id = \"momento\" placeholder=\"#\"",
+			" placeholder=\"#\"",
+			"realizar_venta",
+			"if(mostrando_input)",
+			"page_productos",
+			"$Producto",
+			"logos/mas.png",
+			"logo/mas.png",
+			"logo/item.png",
+			"$idproy",
+			"titulacion",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"settings":
+					{
+						"buffer_size": 2704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2371,
+								2371
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/UsuariosControlador.php",
+					"settings":
+					{
+						"buffer_size": 1514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								786
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 465.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/usuarios/todos.blade.php",
+					"settings":
+					{
+						"buffer_size": 2199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/error.blade.php",
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/funciones.js",
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/dinamica.blade.php",
+					"settings":
+					{
+						"buffer_size": 3367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1201,
+								1201
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/plantilla/origen.blade.php",
+					"settings":
+					{
+						"buffer_size": 1427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 210.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Lorem ipsum dolor sit amet, consectetur adipisicin"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true
+}

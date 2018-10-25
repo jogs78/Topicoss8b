@@ -29,6 +29,17 @@ class UsuariosControlador extends Controller
 		return redirect('usuarios');
 
 	}
+
+	public function add2(Request $request){
+
+		$nuevo = new usuario;
+		$nuevo->fill( $request->all() );
+		$nuevo->save();
+		return $nuevo->toArray();
+	}
+
+
+
 	public function actualizar($id){
 		$elemento = usuario::find($id);
 		return view('usuarios.actualizar',compact('elemento'));
@@ -40,6 +51,15 @@ class UsuariosControlador extends Controller
 		$elemento->save();
 		return redirect('usuarios');
 	}
+
+	public function updatename(Request $request){
+		$elemento = usuario::find($request->get('id'));
+		$elemento->nombre = $request->get('nombre');
+		$elemento->save();
+		return $elemento->toJson();
+	}
+
+	
 
 	public function borrar($id){
 		$elemento = usuario::find($id);
