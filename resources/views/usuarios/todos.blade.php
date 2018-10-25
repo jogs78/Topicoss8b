@@ -9,7 +9,7 @@
 	@foreach($todos as $cadauno)
 			<tr id = "{{$cadauno->id}}">
 				<td class="col_nombre">{{$cadauno->nombre}}</td>
-				<td>{{$cadauno->apellidos}}</td>
+				<td class="col_appellido">{{$cadauno->apellidos}}</td>
 			</tr>
 	@endforeach
 		</tbody>
@@ -64,10 +64,13 @@
 @endsection
 @section("js")
 	<script src="/funciones.js"></script>
-		<script>
+	<script>
 		$( document ).ready( 	 function (){
 			$('#otro').click( agregafila );
-			$('#tabla').on("click", ".col_nombre", borrar );
+      $('#tabla').on("dblclick", ".col_nombre", editarnombre );
+      $('#tabla').on("dblclick", ".col_appellido", editarapellido );
+      $('#tabla').on("keydown", ".input_nombre", teclazonombre );
+
 	});
 
 	</script>

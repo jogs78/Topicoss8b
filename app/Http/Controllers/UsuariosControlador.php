@@ -52,6 +52,15 @@ class UsuariosControlador extends Controller
 		return redirect('usuarios');
 	}
 
+	public function updatename(Request $request){
+		$elemento = usuario::find($request->get('id'));
+		$elemento->nombre = $request->get('nombre');
+		$elemento->save();
+		return $elemento->toJson();
+	}
+
+	
+
 	public function borrar($id){
 		$elemento = usuario::find($id);
 		return view('usuarios.borrar',compact('elemento'));
