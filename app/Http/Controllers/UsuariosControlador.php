@@ -68,8 +68,6 @@ class UsuariosControlador extends Controller
 
 
 	public function delete(Request $request, $id){
-
-
 		$elemento = usuario::find($id);
 		try{
 				$elemento->delete();
@@ -77,11 +75,17 @@ class UsuariosControlador extends Controller
             if($e->getCode()==23000) return redirect('error');
         }
 		return redirect('usuarios');
-
-
 	}
 
-
-
-
+	public function deleterow(Request $request){
+		$elemento = usuario::find($request->get('id'));
+		try{
+				$elemento->delete();
+				$regresar = array('borrado' =>  true, 'mensaje' => 'Usuario borrado.', 'id' => $request->get('id') ); 
+    }catch (\Illuminate\Database\QueryException $e){
+            if($e->getCode()==23000) $regresar = array('borrado' =>  false, 'mensaje' => 'No se puede borrar al usuario porque lo estan usando en otra tabla.' ); 
+            $regresar = array('borrado' =>  false, 'mensaje' => 'Error al borrar el usuario.' ); 
+    }
+		return json_encode($regresar);
+	}
 }

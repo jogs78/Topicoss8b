@@ -17,7 +17,21 @@ function agregafila(){
 
 function borrar(){
 //	alert( this.innerText );
-	this.parentNode.remove();
+// this.parentNode.remove();
+	var id = this.parentNode.id;
+	var tok = $('input[name=_token]').val();
+
+	var datos = { _token : tok, id: id }
+			$.post( "/usuarios/deleterow ", datos, function( data ) {
+				if(data.borrado){
+					$('#'+data.id).remove();
+					//this.parentNode.remove();
+				}else{
+					alert(data.mensaje);
+				}
+			}, "json");
+
+
 
 }
 
@@ -39,7 +53,6 @@ function  teclazonombre ( event ) {
 			var nom = this.value;
 			var id = this.parentNode.parentNode.id;
 			var datos = { _token : tok, nombre :  nom, id: id }
-
 			$.post( "/usuarios/updatename ", datos, function( data ) {
 					var ruta = '#tabla>tbody>#' + data.id + ">.col_nombre";
 					$(ruta).text(data.nombre);

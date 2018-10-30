@@ -83,7 +83,7 @@
 			"file": "routes/web.php",
 			"settings":
 			{
-				"buffer_size": 2704,
+				"buffer_size": 2773,
 				"line_ending": "Unix"
 			}
 		},
@@ -91,7 +91,7 @@
 			"file": "app/Http/Controllers/UsuariosControlador.php",
 			"settings":
 			{
-				"buffer_size": 1514,
+				"buffer_size": 1716,
 				"line_ending": "Unix"
 			}
 		},
@@ -99,7 +99,7 @@
 			"file": "resources/views/usuarios/todos.blade.php",
 			"settings":
 			{
-				"buffer_size": 2199,
+				"buffer_size": 2368,
 				"line_ending": "Unix"
 			}
 		},
@@ -115,7 +115,7 @@
 			"file": "public/funciones.js",
 			"settings":
 			{
-				"buffer_size": 614,
+				"buffer_size": 1480,
 				"line_ending": "Unix"
 			}
 		},
@@ -131,7 +131,7 @@
 			"file": "resources/views/plantilla/origen.blade.php",
 			"settings":
 			{
-				"buffer_size": 1427,
+				"buffer_size": 1165,
 				"line_ending": "Unix"
 			}
 		}
@@ -525,15 +525,15 @@
 					"file": "routes/web.php",
 					"settings":
 					{
-						"buffer_size": 2704,
+						"buffer_size": 2773,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2371,
-								2371
+								2571,
+								2581
 							]
 						],
 						"settings":
@@ -544,7 +544,7 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 728.0,
+						"translation.y": 1496.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -554,15 +554,15 @@
 					"file": "app/Http/Controllers/UsuariosControlador.php",
 					"settings":
 					{
-						"buffer_size": 1514,
+						"buffer_size": 1716,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								767,
-								786
+								1309,
+								1309
 							]
 						],
 						"settings":
@@ -574,7 +574,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 465.0,
+						"translation.y": 1161.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -584,15 +584,15 @@
 					"file": "resources/views/usuarios/todos.blade.php",
 					"settings":
 					{
-						"buffer_size": 2199,
+						"buffer_size": 2368,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								265,
-								265
+								2321,
+								2334
 							]
 						],
 						"settings":
@@ -601,7 +601,8 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -644,15 +645,15 @@
 					"file": "public/funciones.js",
 					"settings":
 					{
-						"buffer_size": 614,
+						"buffer_size": 1480,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								301,
-								301
+								1126,
+								1399
 							]
 						],
 						"settings":
@@ -664,7 +665,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 618.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -703,15 +704,15 @@
 					"file": "resources/views/plantilla/origen.blade.php",
 					"settings":
 					{
-						"buffer_size": 1427,
+						"buffer_size": 1165,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								40,
-								40
+								213,
+								213
 							]
 						],
 						"settings":
@@ -722,7 +723,7 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 157.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

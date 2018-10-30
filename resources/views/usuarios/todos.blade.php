@@ -2,12 +2,14 @@
 @section("contenido")
 	<table id = "tabla" class="table table-hover" border="1"  >
 		<thead class="thead-dark">
+      <th>ID</th>      
 			<th>NOMBRE</th>
 			<th>APELLIDOS</th>
 		</thead>
 		<tbody>
 	@foreach($todos as $cadauno)
 			<tr id = "{{$cadauno->id}}">
+        <td class="col_id">{{$cadauno->id}}</td>
 				<td class="col_nombre">{{$cadauno->nombre}}</td>
 				<td class="col_appellido">{{$cadauno->apellidos}}</td>
 			</tr>
@@ -70,6 +72,7 @@
       $('#tabla').on("dblclick", ".col_nombre", editarnombre );
       $('#tabla').on("dblclick", ".col_appellido", editarapellido );
       $('#tabla').on("keydown", ".input_nombre", teclazonombre );
+      $('#tabla').on("dblclick", ".col_id", borrar );
 
 	});
 
