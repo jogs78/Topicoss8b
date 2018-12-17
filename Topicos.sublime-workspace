@@ -84,58 +84,18 @@
 	"buffers":
 	[
 		{
-			"file": "routes/web.php",
+			"file": "/Desarrollo/home/public/cuatro/resources/views/plantilla/origen.blade.php",
 			"settings":
 			{
-				"buffer_size": 2842,
+				"buffer_size": 443,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/Http/Controllers/UsuariosControlador.php",
+			"file": "app/Http/Models/carro.php",
 			"settings":
 			{
-				"buffer_size": 2300,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/error.blade.php",
-			"settings":
-			{
-				"buffer_size": 107,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/usuarios/todos.blade.php",
-			"settings":
-			{
-				"buffer_size": 2495,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/funciones.js",
-			"settings":
-			{
-				"buffer_size": 1798,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/dinamica.blade.php",
-			"settings":
-			{
-				"buffer_size": 3367,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/plantilla/origen.blade.php",
-			"settings":
-			{
-				"buffer_size": 1165,
+				"buffer_size": 297,
 				"line_ending": "Unix"
 			}
 		}
@@ -204,6 +164,18 @@
 	},
 	"file_history":
 	[
+		"/Desarrollo/home/public/tres/resources/views/welcome.blade.php",
+		"/Desarrollo/home/public/tres/routes/api.php",
+		"/Desarrollo/home/public/tres/public/funciones.js",
+		"/Desarrollo/home/public/tres/resources/views/usuarios/todos.blade.php",
+		"/Desarrollo/home/public/tres/resources/views/plantilla/origen.blade.php",
+		"/Desarrollo/home/public/cuatro/resources/views/welcome.blade.php",
+		"/Desarrollo/home/public/cuatro/resources/views/plantilla/navegacion.blade.php",
+		"/Desarrollo/home/public/cuatro/resources/views/plantilla/origen.blade.php",
+		"/Desarrollo/home/public/tres/resources/views/dinamica.blade.php",
+		"/Desarrollo/home/public/tres/resources/views/error.blade.php",
+		"/Desarrollo/home/public/tres/app/Http/Controllers/UsuariosControlador.php",
+		"/Desarrollo/home/public/tres/routes/web.php",
 		"/Desarrollo/home/public/tres/resources/views/prueba/septima.blade.php",
 		"/Desarrollo/home/public/tres/resources/views/usuarios/agregar.blade.php",
 		"/Desarrollo/home/public/tres/resources/views/carros/todos.blade.php",
@@ -212,8 +184,6 @@
 		"/Desarrollo/home/public/tres/resources/views/usuarios/borrar.blade.php",
 		"/Desarrollo/home/public/tres/app/Http/Controllers/PrimerControlador.php",
 		"/Desarrollo/home/public/tres/app/Http/Models/carro.php",
-		"/Desarrollo/home/public/tres/public/funciones.js",
-		"/Desarrollo/home/public/tres/resources/views/dinamica.blade.php",
 		"/Desarrollo/home/public/tres/.env",
 		"/Desarrollo/home/public/negocio/public/js/tienda_existencias_inventariar.js",
 		"/Desarrollo/home/public/negocio/resources/views/Tienda/existencias/inventariar.blade.php",
@@ -321,17 +291,7 @@
 		"/Desarrollo/home/public/crud/resources/views/aval/show.blade.php",
 		"/Desarrollo/home/public/crud/public/js/aval.js",
 		"/Desarrollo/home/public/crud/app/Models/Aval.php",
-		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/AvalController.php",
-		"/Desarrollo/home/public/crud/extras/notas_git.md",
-		"/Users/jogs78/Dropbox/personal/casas",
-		"/Desarrollo/home/public/crud/app/Models/Colaboradores.php",
-		"/Desarrollo/home/public/crud/resources/views/gastos/index.blade.php",
-		"/Desarrollo/home/public/crud/resources/views/sistema/Investigador.blade.php",
-		"/Desarrollo/home/public/crud/resources/views/documentos/ci01.blade.php",
-		"/Desarrollo/home/public/crud/app/Models/Protocolo.php",
-		"/Desarrollo/home/public/crud/routes/web.php",
-		"/Desarrollo/home/public/crud/.env",
-		"/Desarrollo/home/public/crud/app/Models/Gastos.php"
+		"/Desarrollo/home/public/crud/app/Http/Controllers/Investigador/AvalController.php"
 	],
 	"find":
 	{
@@ -526,18 +486,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "routes/web.php",
+					"file": "/Desarrollo/home/public/cuatro/resources/views/plantilla/origen.blade.php",
 					"settings":
 					{
-						"buffer_size": 2842,
+						"buffer_size": 443,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2648,
-								2648
+								108,
+								108
 							]
 						],
 						"settings":
@@ -548,146 +508,25 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1528.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/Http/Controllers/UsuariosControlador.php",
+					"file": "app/Http/Models/carro.php",
 					"settings":
 					{
-						"buffer_size": 2300,
+						"buffer_size": 297,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2073,
-								2080
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1498.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "resources/views/error.blade.php",
-					"settings":
-					{
-						"buffer_size": 107,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								107,
-								107
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "resources/views/usuarios/todos.blade.php",
-					"settings":
-					{
-						"buffer_size": 2495,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2455,
-								2461
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1588.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "public/funciones.js",
-					"settings":
-					{
-						"buffer_size": 1798,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								670,
-								670
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 440.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "resources/views/dinamica.blade.php",
-					"settings":
-					{
-						"buffer_size": 3367,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1201,
-								1201
+								137,
+								137
 							]
 						],
 						"settings":
@@ -699,35 +538,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "resources/views/plantilla/origen.blade.php",
-					"settings":
-					{
-						"buffer_size": 1165,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								213,
-								213
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 157.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -799,6 +609,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 189.0,
+	"side_bar_width": 252.0,
 	"status_bar_visible": true
 }
