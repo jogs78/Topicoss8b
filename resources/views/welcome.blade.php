@@ -82,7 +82,7 @@
                 <div class="title m-b-md">
                     Proyecto de tópicos
                 </div>
-                REGISTRO
+                REGISTRO (seguimiento)
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
